@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bldxspark&label=Profile%20views&color=0e75b6&style=flat" alt="bldxspark" /> </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=bldxspark&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="250" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bldxspark&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 - 🔭 I’m currently working on **a strategy board game.**
