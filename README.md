@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/bldxspark" target="blank"><img src="https://img.shields.io/twitter/follow/bldxspark?logo=twitter&style=for-the-badge" alt="bldxspark" /></a> </p>
 
+## 🟡 Pac-Man Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bldxspark/bldxspark/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+</p>
+
+
 - 🔭 I’m currently working on **a strategy board game.**
 
 - 🌱 I’m currently learning **the MERN stack, full-stack web development, and data structures & algorithms.**
