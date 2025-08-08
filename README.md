@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Durgesh</h1>
-<h3 align="center">"Crafting Code, Building Ideas, Sharing Knowledge"</h3>
+<h3 align="center">Crafting Code, Building Ideas, Sharing Knowledge</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bldxspark&label=Profile%20views&color=0e75b6&style=flat" alt="bldxspark" /> </p>
 
@@ -25,7 +25,7 @@
 - 📫 How to reach me **durgeshtiwari000x@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L3ZazZAIOuy4f4XnS2MP2taBdmQnBcTW/view?usp=sharing](https://drive.google.com/file/d/1L3ZazZAIOuy4f4XnS2MP2taBdmQnBcTW/view?usp=sharing)
-<h2 align="center">🟡 Pac-Man attacked my contributions!
+<h2 align="center">My contributions!
 </h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bldxspark/bldxspark/output/pacman-contribution-graph-dark.svg">
