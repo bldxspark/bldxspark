@@ -43,8 +43,8 @@ _He said green squares are his favorite snack._
 
 ###
 
-<h2 align="left">Languages and Tools:</h3>
-<div align="left">
+<h2 align="center">Languages and Tools</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
@@ -84,10 +84,10 @@ _He said green squares are his favorite snack._
 
 ###
 
-<h2 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me</h3>
 
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/___spark.11" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -103,7 +103,7 @@ _He said green squares are his favorite snack._
 </div>
 
 
-<h2 align="left">My Stats:</h3>
+<h2 align="center">My Stats</h3>
 <div>
    <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
   <img src="https://github-readme-stats.vercel.app/api?username=bldxspark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
