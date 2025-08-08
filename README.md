@@ -27,8 +27,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L3ZazZAIOuy4f4XnS2MP2taBdmQnBcTW/view?usp=sharing](https://drive.google.com/file/d/1L3ZazZAIOuy4f4XnS2MP2taBdmQnBcTW/view?usp=sharing)
 
 
-## 🟡 Pac-Man attacked my contributions!
-_He said green squares are his favorite snack._
+<p align="center">## 🟡 Pac-Man attacked my contributions!
+_He said green squares are his favorite snack._</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bldxspark/bldxspark/output/pacman-contribution-graph-dark.svg">
